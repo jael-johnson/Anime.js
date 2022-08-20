@@ -1,6 +1,7 @@
 # Final Creative for Creative Web Development (Spring 2020)
- Built a website using Anime.js along with CSS, HTML and Javascript
- Self Learned the framework Anime.js while in the class for this project
+* Built a website using Anime.js along with CSS, HTML and Javascript
+* Self Learned the framework Anime.js while in the class for this project
+* Visually appealing animated website with information on Covid-19 and fun self-care ideas for during the pandemic
 
 ## Learn to make awesome animations with Anime.js
 
