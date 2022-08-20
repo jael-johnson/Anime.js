@@ -1,4 +1,7 @@
-# Final Creative
+# Final Creative for Creative Web Development (Spring 2020)
+## Built a website using Anime.js along with CSS, HTML and Javascript
+## Self Learned the framework Anime.js while in the class for this project
+
 ## Learn to make awesome animations with Anime.js
 
 * Download Anime.js by running: $ npm install animejs --save
