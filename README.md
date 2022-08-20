@@ -2,6 +2,10 @@
 * Built a website using Anime.js along with CSS, HTML and Javascript
 * Self Learned the framework Anime.js while in the class for this project
 * Visually appealing animated website with information on Covid-19 and fun self-care ideas for during the pandemic
+* Early project that still has several areas for improvement
+
+## Link to Live Website:
+* https://creative.colorado.edu/~jajo6032/dev/final/home/index.html
 
 ## Learn to make awesome animations with Anime.js
 
